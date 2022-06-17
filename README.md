@@ -1,1 +1,4 @@
 # Polybar
+ 
+ # my polybar config
+ 
